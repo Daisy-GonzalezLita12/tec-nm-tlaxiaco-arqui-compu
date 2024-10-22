@@ -1,5 +1,4 @@
 # Examen 1 - U1 Arquitectura de Computadoras
-Alumna: Daisy Gonzalez Lita     N° control:22620056
 
 **Instrucciones:** Selecciona la respuesta correcta para cada una de las siguientes preguntas.
 
@@ -33,7 +32,7 @@ Alumna: Daisy Gonzalez Lita     N° control:22620056
 
 5. ¿Cuál es la diferencia entre la arquitectura de multiprocesamiento simétrico (SMP) y la arquitectura de multiprocesamiento asimétrico (AMP)?
 
-* [x] a) SMP utiliza múltiples procesadores idénticos, mientras que AMP utiliza procesadores diferentes.
+* [a] a) SMP utiliza múltiples procesadores idénticos, mientras que AMP utiliza procesadores diferentes.
 * [ ] b) SMP se utiliza en sistemas de bajo rendimiento, mientras que AMP se utiliza en sistemas de alto rendimiento.
 * [ ] c) SMP permite una distribución flexible de la carga de trabajo, mientras que AMP no lo permite.
 * [ ] d) SMP no tiene limitaciones en la programación, mientras que AMP sí las tiene.
@@ -47,7 +46,7 @@ Alumna: Daisy Gonzalez Lita     N° control:22620056
 
 7. ¿Cuál es la función del bus frontal (FSB)?
 
-* [] a) Comunicar la memoria caché de nivel 2 con el procesador.
+* [ ] a) Comunicar la memoria caché de nivel 2 con el procesador.
 * [x] b) Comunicar el microprocesador con la placa base.
 * [ ] c) Transferir datos entre la memoria y la ALU.
 * [ ] d) Controlar el reloj del sistema.
@@ -62,7 +61,7 @@ Alumna: Daisy Gonzalez Lita     N° control:22620056
 9. ¿Qué tipo de arquitectura se utiliza en los procesadores Intel y AMD?
 
 * [ ] a) RISC
-* [x] b) CISC
+* [b] b) CISC
 * [ ] c) ARM
 * [ ] d) MIPS
 
@@ -82,7 +81,7 @@ Alumna: Daisy Gonzalez Lita     N° control:22620056
 
 12. ¿Cuál es la función del reloj en una computadora?
 
-* [x] a) Sincronizar las operaciones de la CPU y los dispositivos de entrada y salida.
+* [a] a) Sincronizar las operaciones de la CPU y los dispositivos de entrada y salida.
 * [ ] b) Almacenar la hora actual.
 * [ ] c) Controlar el flujo de datos entre la memoria y la ALU.
 * [ ] d) Generar interrupciones.
@@ -90,7 +89,7 @@ Alumna: Daisy Gonzalez Lita     N° control:22620056
 13. ¿Cuál es la función de los registros en una computadora?
 
 * [ ] a) Almacenar datos e instrucciones permanentes.
-* [x] b) Almacenar datos e instrucciones temporales que se utilizan durante la ejecución de un programa.
+* [b] b) Almacenar datos e instrucciones temporales que se utilizan durante la ejecución de un programa.
 * [ ] c) Comunicar la CPU con la placa base.
 * [ ] d) Sincronizar las operaciones de la CPU.
 
@@ -99,13 +98,13 @@ Alumna: Daisy Gonzalez Lita     N° control:22620056
 * [ ] a) General
 * [ ] b) Índice
 * [ ] c) Segmento
-* [x] d) Acumulador
+* [d] d) Acumulador
 
 15. ¿Qué flag del 8086 indica un resultado igual a cero?
 
 * [ ] a) C (acarreo)
 * [ ] b) P (paridad)
-* [x] c) Z (cero)
+* [c] c) Z (cero)
 * [ ] d) S (signo)
 
 16. ¿En qué modo de direccionamiento el operando es una constante?
@@ -119,14 +118,14 @@ Alumna: Daisy Gonzalez Lita     N° control:22620056
 
 * [ ] a) CLC
 * [ ] b) INC AX
-* [x] c) ADD AX, BX
+* [c] c) ADD AX, BX
 * [ ] d) Ninguna de las anteriores
 
 18. ¿Qué grupo de instrucciones del 8086 se encarga del movimiento, búsqueda y comparación de cadenas de datos?
 
 * [ ] a) Aritméticas
 * [ ] b) Manipulación de bits
-* [x] c) Cadenas
+* [c] c) Cadenas
 * [ ] d) Transferencia de programa
 
 19. ¿Qué interrupción se genera al presionar una tecla en el teclado?

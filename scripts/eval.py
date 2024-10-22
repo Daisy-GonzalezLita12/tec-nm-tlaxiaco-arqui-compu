@@ -1,4 +1,4 @@
-#!bash/bin/python3
+#!bash/bin/env python3
 
 """
 This script is used to evaluate the model on the test set.
