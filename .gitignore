@@ -16,3 +16,6 @@ bin/
 *.suo
 *.user
 *Solucion*
+
+# Codealike
+codealike.json
